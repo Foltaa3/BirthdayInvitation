@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #16d1c3;
+    text-align: center;
+}
+
+.invitation {
+    background-color: #fff;
+    border: 2px solid #16a3d1;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 50px auto;
+    width: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #16a3d1;
+}
+
+button {
+    background-color: #16a3d1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #16a3d1;
+}
